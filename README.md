@@ -20,10 +20,6 @@
 - Built and optimized Python solutions for real-world problems.  
 - Gained exposure to software development practices and Git-based version control.
 
-### 🔸 Zetpeak – Cyber Security Research Intern  
-*June 2023 – Sep 2023 (Remote)*  
-- Researched phishing tools and methods, and analyzed countermeasures.  
-- Worked in a team to document findings and enhance cybersecurity awareness.
 
 ---
 
