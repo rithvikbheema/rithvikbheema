@@ -1,7 +1,9 @@
-# Hi, I'm Sai Rithvik 👋
+# Sai Rithvik Bheema
 
-**Aspiring Data Analyst** who turns raw data into clear business decisions.
-📍 Hyderabad, India · 🎓 B.E. Electrical & Electronics Engineering, CBIT (2026) · 💼 Open to Data Analyst / Business Analyst / Junior Data roles · Immediate joiner
+**Electrical Engineer and Data Analyst** who turns raw data into clear business decisions.
+📍 Hyderabad, India · 🎓 B.E. Electrical & Electronics Engineering, CBIT Hyderabad (2026) · 💼 Open to Graduate Engineer Trainee (Electrical), Data Analyst and AI/ML fresher roles · Immediate joiner
+
+🌐 [Portfolio](https://rithvikbheema.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/sairithvikbheema) · 📄 [Published paper (DOI)](https://doi.org/10.70849/ijsci03042600927)
 
 ---
 
@@ -34,13 +36,22 @@
 
 ## 💼 Experience
 
-**ByteXL – Python Developer Intern** · *Jun 2024 – Aug 2024 (Remote)*
+**ByteXL – Python Developer Intern** · *Jun 2024 – Jul 2024*
 - Built and optimised Python solutions for real-world problems.
 - Worked with software development practices and Git-based version control.
 
 ---
 
+## 📚 Research
+
+- **Geothermal-based Integrated Systems for Hydrogen Production – A Review**, International Journal of Sciences and Innovation Engineering (IJSCI), Vol. 3, Issue 4, April 2026. [DOI 10.70849/ijsci03042600927](https://doi.org/10.70849/ijsci03042600927)
+
+---
+
 ## 📜 Certifications
+
+- Oracle Cloud Infrastructure 2025 Certified Data Science Professional
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 
 - Google AI-ML Virtual Internship – AICTE
 - Data Science Foundation – Infosys Springboard
