@@ -3,7 +3,7 @@
 **Electrical Engineer and Data Analyst** who turns raw data into clear business decisions.
 📍 Hyderabad, India · 🎓 B.E. Electrical & Electronics Engineering, CBIT Hyderabad (2026) · 💼 Open to Graduate Engineer Trainee (Electrical), Data Analyst and AI/ML fresher roles · Immediate joiner
 
-🌐 [Portfolio](https://rithvikbheema.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/sairithvikbheema) · 📄 [Published paper (DOI)](https://doi.org/10.70849/ijsci03042600927)
+🌐 [Portfolio](https://rithvikbheema.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/sairithvikbheema) · 📄 [ORCID](https://orcid.org/0009-0002-3154-2075) · 📄 [Published paper (DOI)](https://doi.org/10.70849/ijsci03042600927)
 
 ---
 
